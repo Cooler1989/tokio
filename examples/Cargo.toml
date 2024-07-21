@@ -36,6 +36,10 @@ name = "connect"
 path = "connect.rs"
 
 [[example]]
+name = "doip"
+path = "doip.rs"
+
+[[example]]
 name = "echo-udp"
 path = "echo-udp.rs"
 
